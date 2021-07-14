@@ -39,9 +39,15 @@
     --btn-secondary-color: #7a3d12;
 }
 
+
+/*===BOX SIZING===*/
+
 * {
     box-sizing: border-box;
 }
+
+
+/*===MARGINS===*/
 
 header,
 footer {
@@ -69,6 +75,9 @@ h1,
 h2 {
     margin: min(7vh, 2.75rem) 0 1.05rem;
 }
+
+
+/*===FONT===*/
 
 html {
     font-size: min(3.2vw, 14px);
